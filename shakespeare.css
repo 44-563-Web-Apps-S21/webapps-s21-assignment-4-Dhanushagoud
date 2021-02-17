@@ -20,7 +20,7 @@
     color:black ;
 }
 .name:hover{
-        text-shadow:6px 6px 6px rebeccapurple;
+        text-shadow:2px 2px  rebeccapurple;
         border:burlywood;
         border: dotted purple;
 }
