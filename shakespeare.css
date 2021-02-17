@@ -1,0 +1,32 @@
+.speech{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: black;
+}
+.stage-direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: orangered;
+    background-color: lightskyblue;
+   
+}
+.stage-direction:hover{
+    background-color: plum;
+    color: white;
+}
+.name{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color:black ;
+}
+.CELIA{
+    color: yellowgreen;
+}
+
+.ROSALIND{
+    color: darkmagenta;
+}
+
+.TOUCHSTONE{
+    color:maroon;
+}
