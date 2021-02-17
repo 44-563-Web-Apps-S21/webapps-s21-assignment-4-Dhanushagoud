@@ -37,8 +37,16 @@
     padding: 10px;
     margin: 10px;
 }
+td,th{
+    padding: 10px;
+}
+
 tr:nth-child(even){
     background-color: mediumslateblue;
+}
+
+tr:th-child(odd){
+    background-color: moccasin;
 }
 
 table, th, td {
