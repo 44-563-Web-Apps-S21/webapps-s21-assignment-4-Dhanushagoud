@@ -49,7 +49,7 @@ tr:nth-child(even){
     background-color: mediumslateblue;
 }
 
-tr:th-child(odd){
+tr:nth-child(odd){
     background-color:red;
 }
 
