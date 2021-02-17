@@ -22,7 +22,7 @@
 .name:hover{
         text-shadow:6px 6px 6px rebeccapurple;
         border:burlywood;
-        border: purple;
+        border: box-decoration-break;
 }
 .CELIA{
     color: rgb(161, 12, 37);
