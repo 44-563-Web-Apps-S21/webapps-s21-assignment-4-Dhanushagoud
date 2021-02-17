@@ -38,7 +38,7 @@
     margin: 10px;
 }
 tr:nth-child(even){
-    background-color:yellow;
+    background-color: mediumslateblue;
 }
 
 table, th, td {
