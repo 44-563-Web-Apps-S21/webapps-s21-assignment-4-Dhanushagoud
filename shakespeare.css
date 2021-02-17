@@ -31,7 +31,7 @@
     color:rgb(90, 6, 6);
 }
 .table{
-    border:wheat;
+    border: pink;
     color: navy;
     text-align: center;
     padding: 10px;
@@ -54,5 +54,5 @@ tr:nth-child(odd){
 }
 
 table, th, td {
-    border: 2px solid palevioletred;
+    border: 2px solid wheat;
   }
