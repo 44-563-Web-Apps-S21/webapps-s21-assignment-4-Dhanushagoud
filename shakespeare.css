@@ -50,7 +50,7 @@ tr:nth-child(even){
 }
 
 tr:th-child(odd){
-    background-color: peru;
+    background-color:red;
 }
 
 table, th, td {
