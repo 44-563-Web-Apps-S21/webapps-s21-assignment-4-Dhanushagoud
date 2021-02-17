@@ -46,7 +46,7 @@ th{
     font-size: large;
 }
 tr:nth-child(even){
-    background-color: mediumslateblue;
+    background-color: lightslategray;
 }
 
 tr:nth-child(odd){
