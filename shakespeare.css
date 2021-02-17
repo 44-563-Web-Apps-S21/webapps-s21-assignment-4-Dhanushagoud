@@ -40,13 +40,17 @@
 td,th{
     padding: 10px;
 }
-
+th{
+    background-color: palegreen;
+    color:salmon;
+    font-size: large;
+}
 tr:nth-child(even){
     background-color: mediumslateblue;
 }
 
 tr:th-child(odd){
-    background-color: moccasin;
+    background-color: rgb(212, 138, 11);
 }
 
 table, th, td {
