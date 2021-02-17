@@ -19,6 +19,11 @@
     font-size: 14px;
     color:black ;
 }
+.name:hover{
+        text-shadow:6px 6px 6px rebeccapurple;
+        border:burlywood;
+        border: dotted;
+}
 .CELIA{
     color: rgb(161, 12, 37);
 }
